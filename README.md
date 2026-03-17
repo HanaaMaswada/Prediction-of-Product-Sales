@@ -1,14 +1,24 @@
 # Prediction-of-Product-Sales
 
-# Sales Prediction Project
+## Overview
+This project explores a sales prediction dataset. The goal is to understand the data and identify patterns that influence product sales.
 
-## Project Description
-This project analyzes a retail sales dataset to understand factors affecting product sales across different outlets.
+## Data Cleaning
+- Handled missing values
+- Fixed inconsistent categories
+- Checked duplicates
+- Reviewed data types
 
 ## Visualizations
 
 ### Histogram
-The histogram shows the distribution of Item_Outlet_Sales values.
+The histogram shows the distribution of Item_Outlet_Sales.
 
 ### Heatmap
-The heatmap shows the correlation between numerical features in the dataset.
+The heatmap shows the correlation between numerical features.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
