@@ -30,14 +30,15 @@ The Linear Regression model helps us understand how each feature affects sales. 
 
 `Item_MRP` has a strong positive effect, meaning higher product prices are associated with higher predicted sales. On the other hand, `Outlet_Type_Grocery Store` has a negative impact, indicating that grocery stores tend to generate lower sales compared to other outlet types. `Outlet_Type_Supermarket Type3` shows a positive contribution, suggesting better sales performance for this outlet type.
 
-![Linear Regression Coefficients](linear_regression_coefficients.png)
+<img width="989" height="590" alt="linear_regression_coefficients" src="https://github.com/user-attachments/assets/7e821327-fb95-4e8f-90f7-276798164281" />![Uploading linear_regression_coefficients.png…]()
 
 ### Random Forest Feature Importance
 The Random Forest model identifies which features are most important for predicting sales. The top features include `Item_MRP`, `Outlet_Type_Grocery Store`, `Outlet_Type_Supermarket Type3`, `Item_Visibility`, and `Outlet_Identifier_OUT027`.
 
 `Item_MRP` is the most important feature, meaning price plays a major role in determining sales. Store type is also highly influential, while product visibility indicates that better placement can improve sales performance.
 
-![Random Forest Feature Importance](random_forest_feature_importance.png)
+![Random Forest Feature Importance](random_forest_feature_impo<img width="989" height="590" alt="random_forest_feature_importance" src="https://github.com/user-attachments/assets/288cb551-5922-4fde-9229-3a905722a570" />
+rtance.png)
 
 ## Final Recommendations
 Based on the analysis, businesses should focus on optimizing pricing strategies, improving product visibility, and prioritizing high-performing outlet types. These factors have the strongest impact on sales and can help increase overall performance.
